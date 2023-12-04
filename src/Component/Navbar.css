@@ -1,0 +1,16 @@
+section{
+    display: flex;
+    justify-content: space-around;
+    /* border:1px solid black; */
+}
+
+
+.navbar ul {
+    display:flex;
+    justify-content: center;
+}
+
+.navbar ul li{
+    padding:18px;
+    margin:10px;
+}
